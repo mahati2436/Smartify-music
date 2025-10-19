@@ -1,2 +1,2 @@
 # Smartify-music
-Spotify replica with Agent AI features
+Smart Spotify with AgentIC AI features
